@@ -1,4 +1,4 @@
-🛡️ DVWA Attack Explorer
+🛡️ DVWA Attack Explorer.
 
 A simple, visual website that helps beginners understand common web application security vulnerabilities — how they work, how attackers exploit them, and how to defend against them.
 
